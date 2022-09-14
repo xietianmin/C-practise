@@ -1,2 +1,2 @@
 # C-practise
-homework for the course
+it's the homework for course by xtm 
